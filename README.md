@@ -1,4 +1,3 @@
-# I Like Github
 <header>
 
 <!--
